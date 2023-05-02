@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "Zuppe e salse (soups and sauces)",
+    "imgUrl": "https://i.ibb.co/sq277vF/category-4.jpg",
+    "numberOfRecipes": "5 Recipe"
+  },
+  {
+    "id": 2,
+    "category": "Common pizzas",
+    "imgUrl": "https://i.ibb.co/ngfP2Vd/ndujapastantop22.jpg",
+    "numberOfRecipes": "10 Recipe"
+  },
+  {
+    "id": 3,
+    "category": "Pasta varieties",
+    "imgUrl": "https://i.ibb.co/xG8v336/category-2.jpg",
+    "numberOfRecipes": "3 Recipe"
+  },
+  {
+    "id": 4,
+    "name": "Pesce (fish dishes)",
+    "imgUrl": "https://i.ibb.co/yPyDyQj/category-3.jpg",
+    "numberOfRecipes": "15 Recipe"
+  }
+]

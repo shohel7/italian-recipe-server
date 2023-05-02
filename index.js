@@ -6,6 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const italianChefs = require("./data/chefs.json");
+const recipeCategories = require("./data/categories.json");
 
 app.get("/", (req, res) => {
   res.send("Italian Recipe is running");
@@ -14,6 +15,11 @@ app.get("/", (req, res) => {
 // all Italian chefs Api
 app.get("/allChefs", (req, res) => {
   res.send(italianChefs);
+});
+
+// all Recipe categories Api
+app.get("/categories", (req, res) => {
+  res.send(recipeCategories);
 });
 
 // // Single category Api

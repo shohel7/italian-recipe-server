@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "Giada De Laurentiis",
+    "name": "De Laurentiis",
     "experienceYear": 20,
     "rating": 4.7,
     "imgUrl": "https://i.ibb.co/yQSxLpr/chef-1.jpg",
@@ -28,7 +28,7 @@
     "name": "Massimo Bottura",
     "experienceYear": 30,
     "rating": 4.9,
-    "imgUrl": "https://i.ibb.co/ydrL6xP/chef-5.jpg",
+    "imgUrl": "https://i.ibb.co/54HW7Md/chef-4.jpg",
     "numberOfRecipes": 80
   },
   {
@@ -36,7 +36,7 @@
     "name": "Carlo Cracco",
     "experienceYear": 35,
     "rating": 4.5,
-    "imgUrl": "https://i.ibb.co/VCrgy3G/chef-6.jpg",
+    "imgUrl": "https://i.ibb.co/yQSxLpr/chef-1.jpg",
     "numberOfRecipes": 60
   },
   {
@@ -44,7 +44,7 @@
     "name": "Lidia Bastianich",
     "experienceYear": 40,
     "rating": 4.7,
-    "imgUrl": "https://i.ibb.co/8NhxRbk/chef-3.jpg",
+    "imgUrl": "https://i.ibb.co/7j2WY0T/chef-2.jpg",
     "numberOfRecipes": 120
   }
 ]
