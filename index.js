@@ -5,17 +5,16 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const categories = require("./data/categories.json");
-const news = require("./data/news.json");
+const italianChefs = require("./data/chefs.json");
 
 app.get("/", (req, res) => {
-  res.send("Dragon is running");
+  res.send("Italian Recipe is running");
 });
 
-// all categories Api
-// app.get("/categories", (req, res) => {
-//   res.send(categories);
-// });
+// all Italian chefs Api
+app.get("/allChefs", (req, res) => {
+  res.send(italianChefs);
+});
 
 // // Single category Api
 // app.get("/categories/:id", (req, res) => {
@@ -42,5 +41,5 @@ app.get("/", (req, res) => {
 // });
 
 app.listen(port, (req, res) => {
-  console.log(`Dragon is running at ${port}`);
+  console.log(`Italian recipe server is running at ${port}`);
 });
