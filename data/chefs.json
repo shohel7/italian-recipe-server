@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Gino D'Acampo",
+    "experienceYear": 25,
+    "rating": 4.8,
+    "imgUrl": "https://example.com/chef1.jpg",
+    "numberOfRecipes": 150
+  },
+  {
+    "id": "2",
+    "name": "Giada De Laurentiis",
+    "experienceYear": 20,
+    "rating": 4.7,
+    "imgUrl": "https://example.com/chef2.jpg",
+    "numberOfRecipes": 100
+  },
+  {
+    "id": "3",
+    "name": "Antonio Carluccio",
+    "experienceYear": 50,
+    "rating": 4.6,
+    "imgUrl": "https://example.com/chef3.jpg",
+    "numberOfRecipes": 75
+  },
+  {
+    "id": "4",
+    "name": "Massimo Bottura",
+    "experienceYear": 30,
+    "rating": 4.9,
+    "imgUrl": "https://example.com/chef4.jpg",
+    "numberOfRecipes": 80
+  },
+  {
+    "id": "5",
+    "name": "Carlo Cracco",
+    "experienceYear": 35,
+    "rating": 4.5,
+    "imgUrl": "https://example.com/chef5.jpg",
+    "numberOfRecipes": 60
+  },
+  {
+    "id": "6",
+    "name": "Lidia Bastianich",
+    "experienceYear": 40,
+    "rating": 4.7,
+    "imgUrl": "https://example.com/chef6.jpg",
+    "numberOfRecipes": 120
+  }
+]
