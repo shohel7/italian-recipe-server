@@ -8,18 +8,18 @@
   {
     "id": 2,
     "category": "Common pizzas",
-    "imgUrl": "https://i.ibb.co/ngfP2Vd/ndujapastantop22.jpg",
+    "imgUrl": "https://i.ibb.co/xG8v336/category-2.jpg",
     "numberOfRecipes": "10 Recipe"
   },
   {
     "id": 3,
     "category": "Pasta varieties",
-    "imgUrl": "https://i.ibb.co/xG8v336/category-2.jpg",
+    "imgUrl": "https://i.ibb.co/ngfP2Vd/ndujapastantop22.jpg",
     "numberOfRecipes": "3 Recipe"
   },
   {
     "id": 4,
-    "name": "Pesce (fish dishes)",
+    "category": "Pesce (fish dishes)",
     "imgUrl": "https://i.ibb.co/yPyDyQj/category-3.jpg",
     "numberOfRecipes": "15 Recipe"
   }

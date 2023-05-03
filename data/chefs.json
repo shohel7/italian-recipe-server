@@ -5,7 +5,8 @@
     "experienceYear": 25,
     "rating": 4.8,
     "imgUrl": "https://i.ibb.co/7j2WY0T/chef-2.jpg",
-    "numberOfRecipes": 150
+    "numberOfRecipes": 150,
+    "shortBio": "Risotto is a traditional dish of northern Italian cuisine. Try some of our most famous risotto recipes. Find out how to cook risotto and what ingredients to use to make it perfect"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "experienceYear": 20,
     "rating": 4.7,
     "imgUrl": "https://i.ibb.co/yQSxLpr/chef-1.jpg",
-    "numberOfRecipes": 100
+    "numberOfRecipes": 100,
+    "shortBio": "Risotto is a traditional dish of northern Italian cuisine. Try some of our most famous risotto recipes. Find out how to cook risotto and what ingredients to use to make it perfect"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "experienceYear": 50,
     "rating": 4.6,
     "imgUrl": "https://i.ibb.co/54HW7Md/chef-4.jpg",
-    "numberOfRecipes": 75
+    "numberOfRecipes": 75,
+    "shortBio": "In Recipes from Italy you can find all the basics of Italian cuisine. Like homemade pasta, gnocchi or tomato passata. The best Italian Chefs have always used these recipes to make their delicious dishes."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "experienceYear": 30,
     "rating": 4.9,
     "imgUrl": "https://i.ibb.co/54HW7Md/chef-4.jpg",
-    "numberOfRecipes": 80
+    "numberOfRecipes": 80,
+    "shortBio": "Recipes from Italy is the place where you can learn how to cook a dish like a native Italian. Genuine, authentic recipes, they are a lifestyle, our way of life in Italy! Find out hundreds of Italian recipes that are easy, quick to make and really delicious!"
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "experienceYear": 35,
     "rating": 4.5,
     "imgUrl": "https://i.ibb.co/yQSxLpr/chef-1.jpg",
-    "numberOfRecipes": 60
+    "numberOfRecipes": 60,
+    "shortBio": "Some popular risotto recipes include mushroom risotto, seafood risotto, and asparagus risotto. Each recipe has its own unique flavor and is usually made with seasonal ingredients."
   },
   {
     "id": 6,
@@ -45,6 +50,7 @@
     "experienceYear": 40,
     "rating": 4.7,
     "imgUrl": "https://i.ibb.co/7j2WY0T/chef-2.jpg",
-    "numberOfRecipes": 120
+    "numberOfRecipes": 120,
+    "shortBio": "Cooking risotto is a labor of love that requires patience and attention to detail. To achieve the perfect texture, you need to add the hot broth gradually.  Making a risotto takes about 20-25 minutes. You need to keep an eye on the rice to avoid overcooking or undercooking!"
   }
 ]

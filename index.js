@@ -7,6 +7,7 @@ app.use(cors());
 
 const italianChefs = require("./data/chefs.json");
 const recipeCategories = require("./data/categories.json");
+const testimonial = require("./data/testimonials.json");
 
 app.get("/", (req, res) => {
   res.send("Italian Recipe is running");
@@ -22,16 +23,17 @@ app.get("/categories", (req, res) => {
   res.send(recipeCategories);
 });
 
-// // Single category Api
-// app.get("/categories/:id", (req, res) => {
-//   const id = parseInt(req.params.id);
-//   if (id === 0) {
-//     res.send(news);
-//   } else {
-//     const categoryNews = news.filter((n) => parseInt(n.category_id) === id);
-//     res.send(categoryNews);
-//   }
-// });
+// all testimonial Api
+app.get("/testimonials", (req, res) => {
+  res.send(testimonial);
+});
+
+// Single chef Api
+app.get("/chef/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const singleChef = italianChefs.find((chef) => parseInt(chef.id) === id);
+  res.send(singleChef);
+});
 
 // // all news api
 // app.get("/news", (req, res) => {
